@@ -1,5 +1,5 @@
-anaconda-client==1.7.2
-anaconda-navigator==1.9.12
+# anaconda-client==1.7.2
+# anaconda-navigator==1.9.12
 appdirs==1.4.4
 argon2-cffi @ file:///C:/ci/argon2-cffi_1596828585465/work
 asgiref==3.3.1
